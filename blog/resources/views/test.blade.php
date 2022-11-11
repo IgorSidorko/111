@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 
-	<title>Праздник в каждый дом</title>
+	<title>Funny Comics Land</title>
 </head>
 <body>
 	<div class="header">
@@ -14,6 +14,5 @@
 			<a href="">Где нас найти?</a>
 		</nav>
 	</div>
-
 </body>
 </html>
