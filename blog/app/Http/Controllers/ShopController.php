@@ -4,11 +4,13 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class MainController extends Controller
+class ShopController extends Controller
 {
     public function ShowHome()
     {
-    	return view('home');
+    	echo "sdfg";
+        die();
+        //return view('home');
     }
 
     public function ShowCatalog()
