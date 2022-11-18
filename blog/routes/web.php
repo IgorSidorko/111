@@ -12,8 +12,9 @@
 |
 */
 
-Route::get('/home', 'MainController@ShowHome');
 
-Route::get('/catalog', 'MainController@ShowCatalog');
+Route::get('/home', [App\Http\Controllers\ShopController::class, 'ShowHome']);
 
-Route::get('/location', 'MainController@ShowLocation');
+// Route::get('/catalog', 'MainController@ShowCatalog');
+
+// Route::get('/location', 'MainController@ShowLocation');
