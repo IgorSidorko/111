@@ -1,0 +1,22 @@
+body {
+    padding-top: 80px;
+}
+
+.map img{
+	width: 100%;
+	border-radius: 30px;
+}
+
+.map h1{
+	padding-bottom: 40px;
+}
+
+.map p{
+	font-size: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.MapText img{
+	width:30px;
+}

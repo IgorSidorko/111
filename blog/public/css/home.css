@@ -1,0 +1,30 @@
+body {
+    padding-top: 40px;
+}
+
+.HomePost{
+	font-size: 40px;
+	color: #fff;
+	background: url(/img/post.jpg) center center;
+	box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6);
+	height: 90vh;
+}
+
+.HomePost img{
+	width: 300px;
+}
+
+.HomePost p{
+	padding-top: 60px;
+}
+
+.About{
+    padding: 20px 15px;
+    text-align: center;
+    color: #000;
+}
+
+.About p{
+	font-size: 20px;
+	padding-top: 20px;
+}

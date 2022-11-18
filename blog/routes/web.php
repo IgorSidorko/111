@@ -12,3 +12,8 @@
 |
 */
 
+Route::get('/home', 'MainController@ShowHome');
+
+Route::get('/catalog', 'MainController@ShowCatalog');
+
+Route::get('/location', 'MainController@ShowLocation');
